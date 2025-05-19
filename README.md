@@ -10,11 +10,6 @@ Este desafio se escribio con codigo HTML y CSS, con la metodología Mobile First
 ![Vista previa del diseño para el desafío de codificación de la página de recetas](./design/desktop-design.jpg)
 
 
-### Desafio mobile
-
-![Vista previa del diseño para el desafío de codificación de la página de recetas](./design/mobile-design.jpg)
-
-
 ## Proceso
 
 Construido con
@@ -23,7 +18,13 @@ Construido con
 - Caja flexible
 - Flujo de trabajo que prioriza los dispositivos móviles
 
+## Implementacion
+
+Servidor alojado:
+
+- [GitHub Pages](https://github.com/amigos81/recipe-page.git)
+- [Netlify](https://fancy-malasada-f8de63.netlify.app/)
+
 ## Autor
 
-- Sitio web - Edward Quisocala - Demo
-- Mentor de interfaz de usuario - [@amigos81](https://www.frontendmentor.io/profile/amigos81)
+- Edward Quisocala
